@@ -1,0 +1,11 @@
+body{background-color: White}
+div{color:white;
+	padding:20px;
+	margin: 40px;
+    width:90%;
+    text-align: center;
+}
+ 
+#Topic1{background-color: Red;border:10px solid black;}
+
+#Topic2{background-color: green;border:10px solid black}

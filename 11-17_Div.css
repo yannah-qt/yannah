@@ -1,0 +1,13 @@
+body{background-color: darkgray;}
+
+div{color: white;
+	padding: 20px;
+	 margin:40px; 
+	 width:30%;
+	 display:inline-block;
+	 border-radius: 100px;}
+
+#day{background-color: lightgreen; border: 10px solid yellow;}
+
+#night{background-color: lightcoral; border:10px dashed; lightblue;}
+
